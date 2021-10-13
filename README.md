@@ -21,7 +21,7 @@ then run the command at your site's root directory
 ``` sh
 $ hugo serve 
 ```
-to dbuid the site,
+to build the site,
 ```sh 
 $ hugo 
 ```
@@ -29,8 +29,8 @@ You can see the site **/public** directory.
 ## Related article and shares
 **Turkish**
 
-[hashnode](https://noaahhhtech.hashnode.dev/hugo-github-page-ile-basit-bir-static-web-sitesi-olusturup-yayinlama)
+[Hugo-github pages ile basit bir static web sitesi oluşturup yayınlama](https://noaahhhtech.hashnode.dev/hugo-github-page-ile-basit-bir-static-web-sitesi-olusturup-yayinlama)
 
 [**English**]
 
-[dev.to](https://www.dev.to/noaahhh/creating-static-web-sites-using-hugo-4f1k)
+[Creating static web sites using hugo](https://www.dev.to/noaahhh/creating-static-web-sites-using-hugo-4f1k)
