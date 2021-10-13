@@ -28,6 +28,9 @@ $ hugo
 You can see the site **/public** directory. 
 ## Related article and shares
 **Turkish**
-[google]("https://google.com")
 
-[**English**]("https://www.dev.to/noaahhh/creating-static-web-sites-using-hugo-4f1k")
+[hashnode](https://noaahhhtech.hashnode.dev/hugo-github-page-ile-basit-bir-static-web-sitesi-olusturup-yayinlama)
+
+[**English**]
+
+[dev.to](https://www.dev.to/noaahhh/creating-static-web-sites-using-hugo-4f1k)
