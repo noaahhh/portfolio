@@ -27,10 +27,6 @@ $ hugo
 ```
 You can see the site **/public** directory. 
 ## Related article and shares
-**Turkish**
+**Turkish** [ Hugo-Github Page ile basit bir static web sitesi oluşturup yayınlama ]("https://noaahhhtech.hashnode.dev/hugo-github-page-ile-basit-bir-static-web-sitesi-olusturup-yayinlama")
 
-[ Hugo-Github Page ile basit bir static web sitesi oluşturup yayınlama ]("https://noaahhhtech.hashnode.dev/hugo-github-page-ile-basit-bir-static-web-sitesi-olusturup-yayinlama")
-
-**English**
-
-[ Creating static web sites using Hugo ]("https://dev.to/noaahhh/creating-static-web-sites-using-hugo-4f1k")
+**English** [Creating static web sites using Hugo]("https://dev.to/noaahhh/creating-static-web-sites-using-hugo-4f1k")
