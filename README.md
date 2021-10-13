@@ -27,6 +27,7 @@ $ hugo
 ```
 You can see the site **/public** directory. 
 ## Related article and shares
-[**Turkish**]("https://www.noaahhhtech.hashnode.dev/hugo-github-page-ile-basit-bir-static-web-sitesi-olusturup-yayinlama")
+**Turkish**
+[google]("https://google.com")
 
 [**English**]("https://www.dev.to/noaahhh/creating-static-web-sites-using-hugo-4f1k")
